@@ -13,7 +13,7 @@ Build an application that performs the following actions:
 *	(BONUS): Accepts an HTTP PUT request at the same path (/products/{id}), containing a JSON request body similar to the GET response, and updates the product’s price in the data store. 
 
 ## Technologies Used
- * Java 11, Spring Boot, MongoDB Cloud (Mongo Db Atlas), Maven, IntelliJ
+ * Java 8, Spring Boot, MongoDB Cloud (Mongo Db Atlas), Maven, IntelliJ
 ## Project Setup
  * Import the project using any IDE or Clone the project into a folder.
  * Add Maven Framework
